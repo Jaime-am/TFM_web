@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "root123";
+$password = "";
 $database = "lab_db";
 
 // Conexión a la base de datos
